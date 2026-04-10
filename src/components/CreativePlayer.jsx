@@ -7,7 +7,7 @@ const CREATIVES = [
   {
     id: 1,
     type: 'image',
-    src: 'https://wallpaperaccess.com/full/16007691.jpg',
+    src: '/creatives/H_M_1.jpg', // Example image in /public/creatives/
     duration: 8000,
     label: 'AUTUMN COLLECTION',
     sub: 'NEW ARRIVALS // 2025',
@@ -15,7 +15,7 @@ const CREATIVES = [
   {
     id: 2,
     type: 'image',
-    src: 'https://wallpaperaccess.com/full/8110225.jpg',
+    src: '/creatives/H_M_2.jpg', // Example image in /public/creatives/
     duration: 8000,
     label: 'MACHINED LUXURY',
     sub: 'CURATED EDITION',
@@ -23,21 +23,13 @@ const CREATIVES = [
   {
     id: 3,
     type: 'image',
-    src: 'https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=1920&q=90',
+    src: '/creatives/H_M_3.jpg', // Example image in /public/creatives/
     duration: 8000,
     label: 'THE REFINED FORM',
     sub: 'WINTER // 25',
   },
   {
     id: 4,
-    type: 'image',
-    src: 'https://images.unsplash.com/photo-1550614000-4895a10e1bfd?w=1920&q=90',
-    duration: 8000,
-    label: 'MONOLITH SERIES',
-    sub: 'EXCLUSIVE DROP',
-  },
-  {
-    id: 5,
     type: 'video',
     src:"/creatives/H&M&180.mp4",
     duration: 15000, // Fallback duration if video metadata fails to load
