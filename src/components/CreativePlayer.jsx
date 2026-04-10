@@ -39,7 +39,7 @@ const CREATIVES = [
   {
     id: 5,
     type: 'video',
-    src:"/creatives/H&M&1800.mp4",
+    src:"/creatives/H&M&180.mp4",
     duration: 15000, // Fallback duration if video metadata fails to load
     label:'Kingfisher Premium',
     sub:'Live the Moment',

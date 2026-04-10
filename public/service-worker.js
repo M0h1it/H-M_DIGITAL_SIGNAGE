@@ -14,7 +14,7 @@ const APP_SHELL = [
 // Creative assets (images/videos) to pre-cache
 const CREATIVE_ASSETS = [
   'https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=1920&q=90',
-  "/creatives/H&M&1800.mp4", // Example video in /public/creatives/
+  "/creatives/H&M&180.mp4", // Example video in /public/creatives/
   'https://images.unsplash.com/photo-1509631179647-0177331693ae?w=1920&q=90',
   'https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=1920&q=90',
   'https://images.unsplash.com/photo-1550614000-4895a10e1bfd?w=1920&q=90',
